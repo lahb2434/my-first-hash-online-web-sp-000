@@ -26,7 +26,7 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-shipping_manifest
+shipping_manifest = 
 
 
   # add 4 gun powder to the shipping_manifest hash below
