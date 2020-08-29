@@ -27,7 +27,6 @@ def adding
                   "oil paintings" => 3
                  }
     shipping_manifest["gun powder"] => 4
+    shipping_manifest["muskets"] => 2
     shipping_manifest
-    moby_dick = shipping_manifest.merge("gun powder" => 4, "muskets" => 2)
-  return moby_dick
 end
